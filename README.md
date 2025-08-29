@@ -1,10 +1,4 @@
 # 👋 Hi, I’m @QuiqueFrancoM
-- 👀 I’m interested in Python
-- 🌱 I’m currently deep learning 
-- 💞️ I’m looking to collaborate on whatever
+- Nowadays Developing in Django framework for fun and to keep the creativity up and working out my brain!
 - 📫 How to reach me: enrique.franco1@gmail.com
 
-<!---
-QuiqueFrancoM/QuiqueFrancoM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
